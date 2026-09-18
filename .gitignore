@@ -1,0 +1,28 @@
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp
+
+# Node
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 日志与临时文件
+*.log
+*.tmp
+
+# 环境变量与密钥
+.env
+.env.*
